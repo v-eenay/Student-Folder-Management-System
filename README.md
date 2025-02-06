@@ -32,10 +32,10 @@ pip install openpyxl
 
 1. **Clone the Repository**
 
-   bash
+   ```bash
    git clone https://github.com/v-eenay/Student-Folder-Management-System.git
    cd Student-Folder-Management-System
-   
+   ```
 
 2. **Data Preparation**
 
@@ -45,9 +45,9 @@ pip install openpyxl
 
 3. **Execute the Script**
 
-   bash
+   ```bash
    python manage_student_folders.py
-   
+   ```
 
 4. **View Results**
 
