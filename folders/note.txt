@@ -1,0 +1,7 @@
++==================================+
+|                                  |
+|  Welcome to your folder haven!   |
+|  New directories will magically  |
+|  materialize in this location.   |
+|                                  |
++==================================+

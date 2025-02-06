@@ -1,0 +1,1608 @@
+=== PROCESS STARTED ===
+### Group-to-Students Mapping Created Successfully ###
+### Student Details Extracted Successfully ###
+### Base Folder 'folders' Created/Verified ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G1' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSH KHADKA' (24045782) ###
+### File Updated Successfully for Student 'AAYUSH KHADKA' (24045782) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G5' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'AJAY BIDARI' (24045799) ###
+### File Updated Successfully for Student 'AJAY BIDARI' (24045799) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G2' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'ANJAL PHUYAL' (24046156) ###
+### File Updated Successfully for Student 'ANJAL PHUYAL' (24046156) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G3' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'ANURODH RAI' (24045825) ###
+### File Updated Successfully for Student 'ANURODH RAI' (24045825) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G5' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH DANGAL' (24045835) ###
+### File Updated Successfully for Student 'AYUSH DANGAL' (24045835) ###
+### WARNING: No Group Found for Student 'CALVIN PANDAY' (24045856) - Skipping ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G1' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'DEEP BASNET' (24045862) ###
+### File Updated Successfully for Student 'DEEP BASNET' (24045862) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G4' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'DIPEN LIMBU' (24046166) ###
+### File Updated Successfully for Student 'DIPEN LIMBU' (24046166) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G5' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'GANGA BAJGAIN' (24045880) ###
+### File Updated Successfully for Student 'GANGA BAJGAIN' (24045880) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G2' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'KRISHNA BHATTARAI SHARMA' (24045907) ###
+### File Updated Successfully for Student 'KRISHNA BHATTARAI SHARMA' (24045907) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G5' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'MANISH BHATTARAI' (24045919) ###
+### File Updated Successfully for Student 'MANISH BHATTARAI' (24045919) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G2' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'MANOJ GAUTAM' (24045921) ###
+### File Updated Successfully for Student 'MANOJ GAUTAM' (24045921) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G3' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'MIN KUMAR PANDEY' (24046173) ###
+### File Updated Successfully for Student 'MIN KUMAR PANDEY' (24046173) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G6' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'NABIN ADHIKARI' (24045925) ###
+### File Updated Successfully for Student 'NABIN ADHIKARI' (24045925) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G6' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'NAWARAJ KAFLE' (24045931) ###
+### File Updated Successfully for Student 'NAWARAJ KAFLE' (24045931) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G4' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'PRAJWAL KOIRALA' (24045966) ###
+### File Updated Successfully for Student 'PRAJWAL KOIRALA' (24045966) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G6' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'PRANISHA GAUTAM' (24045975) ###
+### File Updated Successfully for Student 'PRANISHA GAUTAM' (24045975) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G3' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'PRASANSHA BHATTARAI' (24045979) ###
+### File Updated Successfully for Student 'PRASANSHA BHATTARAI' (24045979) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G1' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'PRAYASI KHADKA' (24045992) ###
+### File Updated Successfully for Student 'PRAYASI KHADKA' (24045992) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G1' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'PUSKAR DHAKAL' (24045997) ###
+### File Updated Successfully for Student 'PUSKAR DHAKAL' (24045997) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G6' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'RHYTHM SHRESTHA' (24046006) ###
+### File Updated Successfully for Student 'RHYTHM SHRESTHA' (24046006) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G6' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'RISHIKESH PRASAI' (24046013) ###
+### File Updated Successfully for Student 'RISHIKESH PRASAI' (24046013) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G1' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'RUPESH KATUWAL' (24046030) ###
+### File Updated Successfully for Student 'RUPESH KATUWAL' (24046030) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G3' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SAMIR NEPAL' (24046042) ###
+### File Updated Successfully for Student 'SAMIR NEPAL' (24046042) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G2' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SAMIR RAI' (24046044) ###
+### File Updated Successfully for Student 'SAMIR RAI' (24046044) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G3' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SAUGAT SINGH BHUJEL' (24046067) ###
+### File Updated Successfully for Student 'SAUGAT SINGH BHUJEL' (24046067) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G2' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SMIRITY DANGAL' (24046081) ###
+### File Updated Successfully for Student 'SMIRITY DANGAL' (24046081) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G4' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SUBIN SHRESTHA' (24046093) ###
+### File Updated Successfully for Student 'SUBIN SHRESTHA' (24046093) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C1G4' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SUJAL SHRESTHA' (24046101) ###
+### File Updated Successfully for Student 'SUJAL SHRESTHA' (24046101) ###
+### Section Folder 'L1C1' Created/Verified ###
+### Group Folder 'L1C3G3' Inside Section 'L1C1' Created/Verified ###
+### File Copied Successfully for Student 'SUSHANT KULUNG' (24046121) ###
+### File Updated Successfully for Student 'SUSHANT KULUNG' (24046121) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G1' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'ABISHEK NIROULA' (24046153) ###
+### File Updated Successfully for Student 'ABISHEK NIROULA' (24046153) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G5' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'ADITYA POKHAREL' (24045796) ###
+### File Updated Successfully for Student 'ADITYA POKHAREL' (24045796) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G3' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'ANURAG AMAGAIN' (24045824) ###
+### File Updated Successfully for Student 'ANURAG AMAGAIN' (24045824) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G1' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'BIMAL SUBEDI' (24046163) ###
+### File Updated Successfully for Student 'BIMAL SUBEDI' (24046163) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G6' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'CHAHANA ACHARYA' (24045857) ###
+### File Updated Successfully for Student 'CHAHANA ACHARYA' (24045857) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G4' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'DWEEP LIMBUKHIM' (24045876) ###
+### File Updated Successfully for Student 'DWEEP LIMBUKHIM' (24045876) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G3' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'GAJUR RAUT' (24045879) ###
+### File Updated Successfully for Student 'GAJUR RAUT' (24045879) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G5' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'JENISH BABU DHAKAL' (24045887) ###
+### File Updated Successfully for Student 'JENISH BABU DHAKAL' (24045887) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G1' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'KIRAN BARDEWA' (24045904) ###
+### File Updated Successfully for Student 'KIRAN BARDEWA' (24045904) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G3' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'MANJILA SHRESTHA' (24045920) ###
+### File Updated Successfully for Student 'MANJILA SHRESTHA' (24045920) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G1' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'NISHESH CHAUDHARY' (24045952) ###
+### File Updated Successfully for Student 'NISHESH CHAUDHARY' (24045952) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G6' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'PRAGYAN KATWAL' (24045963) ###
+### File Updated Successfully for Student 'PRAGYAN KATWAL' (24045963) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G4' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'RAGHAV TIMALSENA' (24045999) ###
+### File Updated Successfully for Student 'RAGHAV TIMALSENA' (24045999) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G5' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'RIJAN RAI' (24046011) ###
+### File Updated Successfully for Student 'RIJAN RAI' (24046011) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G1' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'RIYA CHEMJONG' (24046016) ###
+### File Updated Successfully for Student 'RIYA CHEMJONG' (24046016) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G2' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'ROJINA RIJAL' (24046024) ###
+### File Updated Successfully for Student 'ROJINA RIJAL' (24046024) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G5' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'ROSHAN KATEL' (24046028) ###
+### File Updated Successfully for Student 'ROSHAN KATEL' (24046028) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G5' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SAMRAT BHANDARI' (24046047) ###
+### File Updated Successfully for Student 'SAMRAT BHANDARI' (24046047) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G2' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SAMU SANGROULA' (24046049) ###
+### File Updated Successfully for Student 'SAMU SANGROULA' (24046049) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G2' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SANCHITA BISTA' (24046051) ###
+### File Updated Successfully for Student 'SANCHITA BISTA' (24046051) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G4' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SANDESH KHADKA' (24046053) ###
+### File Updated Successfully for Student 'SANDESH KHADKA' (24046053) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G4' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SANDESH NIRAULA' (24046054) ###
+### File Updated Successfully for Student 'SANDESH NIRAULA' (24046054) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G6' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SATYAN BAJIKO' (24046064) ###
+### File Updated Successfully for Student 'SATYAN BAJIKO' (24046064) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G2' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SAUBHAGYA JUNG THAPA' (24046065) ###
+### File Updated Successfully for Student 'SAUBHAGYA JUNG THAPA' (24046065) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G3' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SIDDHANT JUNG BARAL' (24046078) ###
+### File Updated Successfully for Student 'SIDDHANT JUNG BARAL' (24046078) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G6' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'SUYOG DAHAL' (24046123) ###
+### File Updated Successfully for Student 'SUYOG DAHAL' (24046123) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G2' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'TANUJA SUBEDI' (24046126) ###
+### File Updated Successfully for Student 'TANUJA SUBEDI' (24046126) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G3' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'UJWAL KOIRALA' (24046134) ###
+### File Updated Successfully for Student 'UJWAL KOIRALA' (24046134) ###
+### Section Folder 'L1C2' Created/Verified ###
+### Group Folder 'L1C2G4' Inside Section 'L1C2' Created/Verified ###
+### File Copied Successfully for Student 'YUGESH GHIMIRE' (24046147) ###
+### File Updated Successfully for Student 'YUGESH GHIMIRE' (24046147) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G1' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'AARJU RAUT' (24045770) ###
+### File Updated Successfully for Student 'AARJU RAUT' (24045770) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G5' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'AKRITI SHRESTHA' (24045802) ###
+### File Updated Successfully for Student 'AKRITI SHRESTHA' (24045802) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G2' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'ANMOL DHAKAL' (24045821) ###
+### File Updated Successfully for Student 'ANMOL DHAKAL' (24045821) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G5' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'ARINA YOGI' (24046158) ###
+### File Updated Successfully for Student 'ARINA YOGI' (24046158) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G3' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'ASMITA BHATTARAI' (24046161) ###
+### File Updated Successfully for Student 'ASMITA BHATTARAI' (24046161) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G4' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH NEUPANE' (24045837) ###
+### File Updated Successfully for Student 'AYUSH NEUPANE' (24045837) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G4' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'DHAWA TAMU GURUNG' (24045866) ###
+### File Updated Successfully for Student 'DHAWA TAMU GURUNG' (24045866) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G6' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'GUNJAN SHRESTHA' (24046168) ###
+### File Updated Successfully for Student 'GUNJAN SHRESTHA' (24046168) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G1' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'JENISHA RAI' (24045888) ###
+### File Updated Successfully for Student 'JENISHA RAI' (24045888) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G2' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'KRISH SHRESTHA' (24045906) ###
+### File Updated Successfully for Student 'KRISH SHRESTHA' (24045906) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G4' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'KUNALD RAI' (24046170) ###
+### File Updated Successfully for Student 'KUNALD RAI' (24046170) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G1' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'LIJA NIRAULA' (24045914) ###
+### File Updated Successfully for Student 'LIJA NIRAULA' (24045914) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G2' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'MANIL RAI' (24045918) ###
+### File Updated Successfully for Student 'MANIL RAI' (24045918) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G6' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'NIPEKSHYA SHAKYA' (24045940) ###
+### File Updated Successfully for Student 'NIPEKSHYA SHAKYA' (24045940) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G1' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'PRAKRITI PRADHAN' (24045972) ###
+### File Updated Successfully for Student 'PRAKRITI PRADHAN' (24045972) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G5' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SADIKSHYA NEPAL' (24046035) ###
+### File Updated Successfully for Student 'SADIKSHYA NEPAL' (24046035) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G5' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SAMEER ANSARI' (24046040) ###
+### File Updated Successfully for Student 'SAMEER ANSARI' (24046040) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G5' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SHREYA KHANAL' (24046071) ###
+### File Updated Successfully for Student 'SHREYA KHANAL' (24046071) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G3' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SHREYA POKHAREL' (24046072) ###
+### File Updated Successfully for Student 'SHREYA POKHAREL' (24046072) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G3' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SIJAL NEWAR' (24046079) ###
+### File Updated Successfully for Student 'SIJAL NEWAR' (24046079) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G4' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SUDIP RIJAL' (24046095) ###
+### File Updated Successfully for Student 'SUDIP RIJAL' (24046095) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G1' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SUMIT GIRI' (24046109) ###
+### File Updated Successfully for Student 'SUMIT GIRI' (24046109) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G6' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SUMIT KHADKA' (24046110) ###
+### File Updated Successfully for Student 'SUMIT KHADKA' (24046110) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G2' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'SUPRIM BISTA' (24046115) ###
+### File Updated Successfully for Student 'SUPRIM BISTA' (24046115) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G6' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'TEJ BAHADUR KHADKA' (24046128) ###
+### File Updated Successfully for Student 'TEJ BAHADUR KHADKA' (24046128) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G2' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'WANSH SHARMA' (24046142) ###
+### File Updated Successfully for Student 'WANSH SHARMA' (24046142) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G3' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'YASH DHAKAL' (24046143) ###
+### File Updated Successfully for Student 'YASH DHAKAL' (24046143) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G4' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'YOGESH KHATRI' (24046144) ###
+### File Updated Successfully for Student 'YOGESH KHATRI' (24046144) ###
+### Section Folder 'L1C3' Created/Verified ###
+### Group Folder 'L1C3G6' Inside Section 'L1C3' Created/Verified ###
+### File Copied Successfully for Student 'YUNA KARKI' (24046149) ###
+### File Updated Successfully for Student 'YUNA KARKI' (24046149) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G1' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'AAKASH KOIRALA' (24045766) ###
+### File Updated Successfully for Student 'AAKASH KOIRALA' (24045766) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G6' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'AARYAN KOIRALA' (24045771) ###
+### File Updated Successfully for Student 'AARYAN KOIRALA' (24045771) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G2' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'ABHISHEK GOSWAMI' (24045789) ###
+### File Updated Successfully for Student 'ABHISHEK GOSWAMI' (24045789) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G3' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'ABIRAL POKHAREL' (24045795) ###
+### File Updated Successfully for Student 'ABIRAL POKHAREL' (24045795) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G6' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'AKISHA BHUJEL' (24045800) ###
+### File Updated Successfully for Student 'AKISHA BHUJEL' (24045800) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G1' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'ANISH TAMRAKAR' (24045815) ###
+### File Updated Successfully for Student 'ANISH TAMRAKAR' (24045815) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G5' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'ANUSHKA CHEMJONG' (24045826) ###
+### File Updated Successfully for Student 'ANUSHKA CHEMJONG' (24045826) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G2' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'APSHANA THAPA' (24045828) ###
+### File Updated Successfully for Student 'APSHANA THAPA' (24045828) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G4' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH BISTA' (24045833) ###
+### File Updated Successfully for Student 'AYUSH BISTA' (24045833) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G1' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH CHAUDHARI' (24045834) ###
+### File Updated Successfully for Student 'AYUSH CHAUDHARI' (24045834) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G1' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'BHUMIKA RAYAMAJHI' (24045841) ###
+### File Updated Successfully for Student 'BHUMIKA RAYAMAJHI' (24045841) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G2' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'BIMAN HANG LIMBU (SUBBA)' (24045848) ###
+### File Updated Successfully for Student 'BIMAN HANG LIMBU (SUBBA)' (24045848) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G2' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'BIPIN DHAKAL' (24045849) ###
+### File Updated Successfully for Student 'BIPIN DHAKAL' (24045849) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G1' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'BISHWASH KAFLE' (24045855) ###
+### File Updated Successfully for Student 'BISHWASH KAFLE' (24045855) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G3' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'DARSHANA BHANDARI' (24045861) ###
+### File Updated Successfully for Student 'DARSHANA BHANDARI' (24045861) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G5' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'GAURAB KUMAR SONI' (24045881) ###
+### File Updated Successfully for Student 'GAURAB KUMAR SONI' (24045881) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G4' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'JOYAL POUDEL' (24045895) ###
+### File Updated Successfully for Student 'JOYAL POUDEL' (24045895) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G5' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'KHUSHI LIMBU' (24045902) ###
+### File Updated Successfully for Student 'KHUSHI LIMBU' (24045902) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G3' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'KRISTINA GURUNG' (24045908) ###
+### File Updated Successfully for Student 'KRISTINA GURUNG' (24045908) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G6' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'KRITIKA NIROULA' (24045909) ###
+### File Updated Successfully for Student 'KRITIKA NIROULA' (24045909) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G3' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'MANOJ KATUWAL' (24045922) ###
+### File Updated Successfully for Student 'MANOJ KATUWAL' (24045922) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G4' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'NEHA BHAGAT' (24045934) ###
+### File Updated Successfully for Student 'NEHA BHAGAT' (24045934) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G5' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'NITIKA MANDAL' (24046174) ###
+### File Updated Successfully for Student 'NITIKA MANDAL' (24046174) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G7' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'REASON SUBEDI' (24046002) ###
+### File Updated Successfully for Student 'REASON SUBEDI' (24046002) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G6' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'ROJINA DAHAL' (24046177) ###
+### File Updated Successfully for Student 'ROJINA DAHAL' (24046177) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G7' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'SADIKSHYA KARKI' (24046034) ###
+### File Updated Successfully for Student 'SADIKSHYA KARKI' (24046034) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G4' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'SAFALMANI POKHAREL' (24046036) ###
+### File Updated Successfully for Student 'SAFALMANI POKHAREL' (24046036) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G2' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'SANDESH TAMANG' (24046181) ###
+### File Updated Successfully for Student 'SANDESH TAMANG' (24046181) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G3' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'SRADDHA LIMBU' (24046090) ###
+### File Updated Successfully for Student 'SRADDHA LIMBU' (24046090) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G7' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'SUJAL RAI' (24046099) ###
+### File Updated Successfully for Student 'SUJAL RAI' (24046099) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G4' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'SUPRIM GIRI' (24046116) ###
+### File Updated Successfully for Student 'SUPRIM GIRI' (24046116) ###
+### Section Folder 'L1C4' Created/Verified ###
+### Group Folder 'L1C4G7' Inside Section 'L1C4' Created/Verified ###
+### File Copied Successfully for Student 'USHUDHA SANWA LIMBU' (24046140) ###
+### File Updated Successfully for Student 'USHUDHA SANWA LIMBU' (24046140) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G3' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSHMA CHAUDHARY' (24045786) ###
+### File Updated Successfully for Student 'AAYUSHMA CHAUDHARY' (24045786) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G7' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSHMA KARKI' (24045787) ###
+### File Updated Successfully for Student 'AAYUSHMA KARKI' (24045787) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G2' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'ADARSHA GHIMIRE' (24046154) ###
+### File Updated Successfully for Student 'ADARSHA GHIMIRE' (24046154) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G2' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'AGRAZ ADHIKARI' (24045797) ###
+### File Updated Successfully for Student 'AGRAZ ADHIKARI' (24045797) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G2' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'ALISH KHADKA' (24045803) ###
+### File Updated Successfully for Student 'ALISH KHADKA' (24045803) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G6' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'AMULYA NIRAULA' (24045806) ###
+### File Updated Successfully for Student 'AMULYA NIRAULA' (24045806) ###
+### WARNING: No Group Found for Student 'ANUP WASTI' (24045823) - Skipping ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G4' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'ASHISH BASNET' (24045832) ###
+### File Updated Successfully for Student 'ASHISH BASNET' (24045832) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G5' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH OJHA' (24045838) ###
+### File Updated Successfully for Student 'AYUSH OJHA' (24045838) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G3' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'BIBEK KUMAR BISHWAKARMA' (24045845) ###
+### File Updated Successfully for Student 'BIBEK KUMAR BISHWAKARMA' (24045845) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G6' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'DIKSHYA KAFLE' (24045869) ###
+### File Updated Successfully for Student 'DIKSHYA KAFLE' (24045869) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G5' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'DILIP MAHAT' (24045871) ###
+### File Updated Successfully for Student 'DILIP MAHAT' (24045871) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G1' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'JAMES TAMANG' (24045885) ###
+### File Updated Successfully for Student 'JAMES TAMANG' (24045885) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G7' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'JOHN LIMBU' (24045891) ###
+### File Updated Successfully for Student 'JOHN LIMBU' (24045891) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G4' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'KAUSHAL GHIMIRE' (24045900) ###
+### File Updated Successfully for Student 'KAUSHAL GHIMIRE' (24045900) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G2' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'NETI MARSANGI' (24045935) ###
+### File Updated Successfully for Student 'NETI MARSANGI' (24045935) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G1' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'PRAJWAL KAFLE' (24045964) ###
+### File Updated Successfully for Student 'PRAJWAL KAFLE' (24045964) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G1' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'PRANIMA BHATTARAI' (24045973) ###
+### File Updated Successfully for Student 'PRANIMA BHATTARAI' (24045973) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G7' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'PRATIK BHATTARAI' (24045985) ###
+### File Updated Successfully for Student 'PRATIK BHATTARAI' (24045985) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G3' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'ROHAN CHAUDHARY' (24046176) ###
+### File Updated Successfully for Student 'ROHAN CHAUDHARY' (24046176) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G7' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'RONAK ADHIKARI' (24046025) ###
+### File Updated Successfully for Student 'RONAK ADHIKARI' (24046025) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C1G2' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SAMIR RAI' (24046043) ###
+### File Updated Successfully for Student 'SAMIR RAI' (24046043) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G3' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SAURAV NIROULA' (24046069) ###
+### File Updated Successfully for Student 'SAURAV NIROULA' (24046069) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G3' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SHAURABH KOIRALA' (24046070) ###
+### File Updated Successfully for Student 'SHAURABH KOIRALA' (24046070) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G1' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SHULAV SHAKYA' (24046073) ###
+### File Updated Successfully for Student 'SHULAV SHAKYA' (24046073) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G4' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SMARIKA GHISHING' (24046080) ###
+### File Updated Successfully for Student 'SMARIKA GHISHING' (24046080) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G6' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SURAJ KHADKA' (24046118) ###
+### File Updated Successfully for Student 'SURAJ KHADKA' (24046118) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G5' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'SUSANT LAMSAL' (24046184) ###
+### File Updated Successfully for Student 'SUSANT LAMSAL' (24046184) ###
+### WARNING: No Group Found for Student 'UJINA KUMARI THANDAR' (24046131) - Skipping ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G4' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'UNISH LAXAMBA' (24046137) ###
+### File Updated Successfully for Student 'UNISH LAXAMBA' (24046137) ###
+### Section Folder 'L1C5' Created/Verified ###
+### Group Folder 'L1C5G2' Inside Section 'L1C5' Created/Verified ###
+### File Copied Successfully for Student 'YURAS POKHAREL' (24046151) ###
+### File Updated Successfully for Student 'YURAS POKHAREL' (24046151) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G6' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'AAKRITI NEPAL' (24045767) ###
+### File Updated Successfully for Student 'AAKRITI NEPAL' (24045767) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G1' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'AASHIKA MAJHI' (24045772) ###
+### File Updated Successfully for Student 'AASHIKA MAJHI' (24045772) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G4' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'AASTHA SHAHI' (24045778) ###
+### File Updated Successfully for Student 'AASTHA SHAHI' (24045778) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G2' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'ABHISHEK KUMAR DEV' (24045792) ###
+### File Updated Successfully for Student 'ABHISHEK KUMAR DEV' (24045792) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G5' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'AISHWARYA CHAUDHARY THARU' (24045798) ###
+### File Updated Successfully for Student 'AISHWARYA CHAUDHARY THARU' (24045798) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G1' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'ANGEL RAI' (24045809) ###
+### File Updated Successfully for Student 'ANGEL RAI' (24045809) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G3' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'ANISH DANGAL' (24045812) ###
+### File Updated Successfully for Student 'ANISH DANGAL' (24045812) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G7' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'ANISH POKHREL' (24045814) ###
+### File Updated Successfully for Student 'ANISH POKHREL' (24045814) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G3' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'ANJALI DHAKAL' (24045819) ###
+### File Updated Successfully for Student 'ANJALI DHAKAL' (24045819) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G6' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'ANUJA ADHIKARI' (24045822) ###
+### File Updated Successfully for Student 'ANUJA ADHIKARI' (24045822) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G1' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'BHASKAR MEHTA' (24045840) ###
+### File Updated Successfully for Student 'BHASKAR MEHTA' (24045840) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G2' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'BIRAJ PHUYAL' (24045854) ###
+### File Updated Successfully for Student 'BIRAJ PHUYAL' (24045854) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G7' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'JOYAL KARKI' (24045892) ###
+### File Updated Successfully for Student 'JOYAL KARKI' (24045892) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G6' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'KRIMON GURUNG' (24045905) ###
+### File Updated Successfully for Student 'KRIMON GURUNG' (24045905) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G5' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'NISCHAL GIRI' (24045946) ###
+### File Updated Successfully for Student 'NISCHAL GIRI' (24045946) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G5' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'NISCHAL MISHRA' (24045947) ###
+### File Updated Successfully for Student 'NISCHAL MISHRA' (24045947) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G4' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'PANAS KAFLE' (24045956) ###
+### File Updated Successfully for Student 'PANAS KAFLE' (24045956) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G2' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'PRAKRITI DAHAL' (24045969) ###
+### File Updated Successfully for Student 'PRAKRITI DAHAL' (24045969) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G3' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'PRASHANT CHAULAGAIN' (24045980) ###
+### File Updated Successfully for Student 'PRASHANT CHAULAGAIN' (24045980) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G7' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'PRASNA SHRESTHA' (24045983) ###
+### File Updated Successfully for Student 'PRASNA SHRESTHA' (24045983) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G3' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'PRITAM RAI' (24045995) ###
+### File Updated Successfully for Student 'PRITAM RAI' (24045995) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G7' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'PUSKAR RAJ KAFLE' (24046175) ###
+### File Updated Successfully for Student 'PUSKAR RAJ KAFLE' (24046175) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G6' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'RIWAJ TIWARI' (24046014) ###
+### File Updated Successfully for Student 'RIWAJ TIWARI' (24046014) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G4' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SAGAR ACHARYA' (24046178) ###
+### File Updated Successfully for Student 'SAGAR ACHARYA' (24046178) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G2' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SAMIR JUNG THAPA' (24046045) ###
+### File Updated Successfully for Student 'SAMIR JUNG THAPA' (24046045) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G1' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SANTOSH KHADKA' (24046058) ###
+### File Updated Successfully for Student 'SANTOSH KHADKA' (24046058) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G5' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SAURAB KARKI' (24046068) ###
+### File Updated Successfully for Student 'SAURAB KARKI' (24046068) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G7' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SONU SHAH' (24046089) ###
+### File Updated Successfully for Student 'SONU SHAH' (24046089) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G4' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SUJIT SHAHA' (24046105) ###
+### File Updated Successfully for Student 'SUJIT SHAHA' (24046105) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G2' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'SUPRIYA KC' (24046117) ###
+### File Updated Successfully for Student 'SUPRIYA KC' (24046117) ###
+### Section Folder 'L1C6' Created/Verified ###
+### Group Folder 'L1C6G1' Inside Section 'L1C6' Created/Verified ###
+### File Copied Successfully for Student 'UJJWAL RUPAKHETI' (24046132) ###
+### File Updated Successfully for Student 'UJJWAL RUPAKHETI' (24046132) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G4' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'AASHUTOSH BASNET' (24045775) ###
+### File Updated Successfully for Student 'AASHUTOSH BASNET' (24045775) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G2' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSH ACHARYA' (24045780) ###
+### File Updated Successfully for Student 'AAYUSH ACHARYA' (24045780) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G2' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ABAL BOHARA' (24045788) ###
+### File Updated Successfully for Student 'ABAL BOHARA' (24045788) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G4' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ABHISHEK RIJAL' (24045791) ###
+### File Updated Successfully for Student 'ABHISHEK RIJAL' (24045791) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G1' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'AKRITI GIRI' (24045801) ###
+### File Updated Successfully for Student 'AKRITI GIRI' (24045801) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G6' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ANAMIKA HEJU SHRESTHA' (24045807) ###
+### File Updated Successfully for Student 'ANAMIKA HEJU SHRESTHA' (24045807) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G2' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ANIL KUMAR SHAH' (24045810) ###
+### File Updated Successfully for Student 'ANIL KUMAR SHAH' (24045810) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G5' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ANISH BISHWAKARMA' (24045811) ###
+### File Updated Successfully for Student 'ANISH BISHWAKARMA' (24045811) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G4' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ANISH KARKI' (24045813) ###
+### File Updated Successfully for Student 'ANISH KARKI' (24045813) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G5' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'ASHISH LIMBU' (24046160) ###
+### File Updated Successfully for Student 'ASHISH LIMBU' (24046160) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G6' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH KARMACHARYA' (24046162) ###
+### File Updated Successfully for Student 'AYUSH KARMACHARYA' (24046162) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G1' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'BIBEK SELUWAL' (24045844) ###
+### File Updated Successfully for Student 'BIBEK SELUWAL' (24045844) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G3' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'CHIRANJIBI GHIMIRE' (24045858) ###
+### File Updated Successfully for Student 'CHIRANJIBI GHIMIRE' (24045858) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G3' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'DIVYA BHANDARI' (24045874) ###
+### File Updated Successfully for Student 'DIVYA BHANDARI' (24045874) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G2' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'JEWANATH PARAJULI' (24045889) ###
+### File Updated Successfully for Student 'JEWANATH PARAJULI' (24045889) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G6' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'KABITA GIRI' (24045896) ###
+### File Updated Successfully for Student 'KABITA GIRI' (24045896) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G3' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'KHUM BAHADUR SHRESTHA' (24045901) ###
+### File Updated Successfully for Student 'KHUM BAHADUR SHRESTHA' (24045901) ###
+### WARNING: No Group Found for Student 'LAXMI RAI' (24045913) - Skipping ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G3' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'MANAB RAJ TIMALSINA' (24045917) ###
+### File Updated Successfully for Student 'MANAB RAJ TIMALSINA' (24045917) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G1' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'NIGAM NIROULA' (24045936) ###
+### File Updated Successfully for Student 'NIGAM NIROULA' (24045936) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G1' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'NISHAN RAI' (24045950) ###
+### File Updated Successfully for Student 'NISHAN RAI' (24045950) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G2' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'PRABESH ADHIKARI' (24045958) ###
+### File Updated Successfully for Student 'PRABESH ADHIKARI' (24045958) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G4' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'PRASHANTA KHATRI' (24045981) ###
+### File Updated Successfully for Student 'PRASHANTA KHATRI' (24045981) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G7' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'PRASUN BHATTARAI' (24045984) ###
+### File Updated Successfully for Student 'PRASUN BHATTARAI' (24045984) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G7' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'PRAYASH REGMI' (24045991) ###
+### File Updated Successfully for Student 'PRAYASH REGMI' (24045991) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G1' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'RICKY CHAND BHATTARAI' (24046008) ###
+### File Updated Successfully for Student 'RICKY CHAND BHATTARAI' (24046008) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G7' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'RUSHU K.C.' (24046032) ###
+### File Updated Successfully for Student 'RUSHU K.C.' (24046032) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G5' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'SANDHYA RAUT' (24046056) ###
+### File Updated Successfully for Student 'SANDHYA RAUT' (24046056) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G3' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'SNEHA MAJHI' (24046084) ###
+### File Updated Successfully for Student 'SNEHA MAJHI' (24046084) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G7' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'TANISHA SHRESTHA' (24046125) ###
+### File Updated Successfully for Student 'TANISHA SHRESTHA' (24046125) ###
+### Section Folder 'L1C7' Created/Verified ###
+### Group Folder 'L1C7G6' Inside Section 'L1C7' Created/Verified ###
+### File Copied Successfully for Student 'UTSHAV GAUTAM' (24046141) ###
+### File Updated Successfully for Student 'UTSHAV GAUTAM' (24046141) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G1' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'ARJUN RAI' (24045829) ###
+### File Updated Successfully for Student 'ARJUN RAI' (24045829) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G6' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'BIBEK CHAUDHARY' (24045843) ###
+### File Updated Successfully for Student 'BIBEK CHAUDHARY' (24045843) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G2' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'BIJAY KUMAR KHAWAS' (24045847) ###
+### File Updated Successfully for Student 'BIJAY KUMAR KHAWAS' (24045847) ###
+### WARNING: No Group Found for Student 'BIPIN SUBEDI' (24045851) - Skipping ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G7' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'DINISHA PARAJULI' (24045872) ###
+### File Updated Successfully for Student 'DINISHA PARAJULI' (24045872) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G1' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'KASHMIRA KARKI' (24045898) ###
+### File Updated Successfully for Student 'KASHMIRA KARKI' (24045898) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G3' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'KUSHAL JAMARKATTEL' (24045910) ###
+### File Updated Successfully for Student 'KUSHAL JAMARKATTEL' (24045910) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G5' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'NIKSHAN GAUTAM' (24045937) ###
+### File Updated Successfully for Student 'NIKSHAN GAUTAM' (24045937) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G2' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'NIRDESH NEPAL' (24045941) ###
+### File Updated Successfully for Student 'NIRDESH NEPAL' (24045941) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G7' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'PRANISHA KARKI' (24045976) ###
+### File Updated Successfully for Student 'PRANISHA KARKI' (24045976) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G2' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'PRATIK CHAMLAGAIN' (24045986) ###
+### File Updated Successfully for Student 'PRATIK CHAMLAGAIN' (24045986) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G3' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'PRATIK CHAUHAN' (24045987) ###
+### File Updated Successfully for Student 'PRATIK CHAUHAN' (24045987) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G3' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'PUSPA KHADKA' (24045998) ###
+### File Updated Successfully for Student 'PUSPA KHADKA' (24045998) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G5' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'RAKSHAK SIGDEL' (24046001) ###
+### File Updated Successfully for Student 'RAKSHAK SIGDEL' (24046001) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G4' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'REGAN KARKI' (24046005) ###
+### File Updated Successfully for Student 'REGAN KARKI' (24046005) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G4' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'ROJESH THAPA' (24046023) ###
+### File Updated Successfully for Student 'ROJESH THAPA' (24046023) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G4' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SAMANA UPRETI' (24046039) ###
+### File Updated Successfully for Student 'SAMANA UPRETI' (24046039) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G7' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SAMIKSHYA KARKI' (24046041) ###
+### File Updated Successfully for Student 'SAMIKSHYA KARKI' (24046041) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G1' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SAMPANNA KATUWAL' (24046046) ###
+### File Updated Successfully for Student 'SAMPANNA KATUWAL' (24046046) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G6' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SAMYOG SHRESTHA' (24046050) ###
+### File Updated Successfully for Student 'SAMYOG SHRESTHA' (24046050) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G5' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SANDESH DAHAL' (24046052) ###
+### File Updated Successfully for Student 'SANDESH DAHAL' (24046052) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G2' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SANKALPA PARAJULI' (24046057) ###
+### File Updated Successfully for Student 'SANKALPA PARAJULI' (24046057) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G6' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SARAS KARKI' (24046060) ###
+### File Updated Successfully for Student 'SARAS KARKI' (24046060) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G2' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SAROJ THAPA' (24046062) ###
+### File Updated Successfully for Student 'SAROJ THAPA' (24046062) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G7' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SAUGAT KOIRALA' (24046066) ###
+### File Updated Successfully for Student 'SAUGAT KOIRALA' (24046066) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G3' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SONI SHRESTHA' (24046088) ###
+### File Updated Successfully for Student 'SONI SHRESTHA' (24046088) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G5' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SUGAM KHATIWADA' (24046096) ###
+### File Updated Successfully for Student 'SUGAM KHATIWADA' (24046096) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G1' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SUGAM SHRESTHA' (24046097) ###
+### File Updated Successfully for Student 'SUGAM SHRESTHA' (24046097) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G1' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SUJAL KUMAR MAJHI' (24046103) ###
+### File Updated Successfully for Student 'SUJAL KUMAR MAJHI' (24046103) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G6' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'SUSHIL SIGDEL' (24046185) ###
+### File Updated Successfully for Student 'SUSHIL SIGDEL' (24046185) ###
+### Section Folder 'L1C8' Created/Verified ###
+### Group Folder 'L1C8G3' Inside Section 'L1C8' Created/Verified ###
+### File Copied Successfully for Student 'UJWAL TIMSINA' (24046136) ###
+### File Updated Successfully for Student 'UJWAL TIMSINA' (24046136) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G7' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'AASHISH KUMAR SHAH' (24045774) ###
+### File Updated Successfully for Student 'AASHISH KUMAR SHAH' (24045774) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G7' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'AASTHA KARKI' (24045777) ###
+### File Updated Successfully for Student 'AASTHA KARKI' (24045777) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G5' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSH KHANAL' (24045784) ###
+### File Updated Successfully for Student 'AAYUSH KHANAL' (24045784) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G5' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'ABHISHEK KOIRALA' (24045790) ###
+### File Updated Successfully for Student 'ABHISHEK KOIRALA' (24045790) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G6' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'ANJAL NIRAULA' (24045816) ###
+### File Updated Successfully for Student 'ANJAL NIRAULA' (24045816) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G2' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'ANKITA GHIMIRE' (24045820) ###
+### File Updated Successfully for Student 'ANKITA GHIMIRE' (24045820) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G6' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'ANUSHKA SANGROULA' (24045827) ###
+### File Updated Successfully for Student 'ANUSHKA SANGROULA' (24045827) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G7' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'EKTA RAI' (24045878) ###
+### File Updated Successfully for Student 'EKTA RAI' (24045878) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G2' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'HIRDAYA SHIWAKOTI' (24045882) ###
+### File Updated Successfully for Student 'HIRDAYA SHIWAKOTI' (24045882) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G3' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'KYANI DAN RAI' (24045912) ###
+### File Updated Successfully for Student 'KYANI DAN RAI' (24045912) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G2' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'NIMBUS SEVEN CHAUDHARY' (24045938) ###
+### File Updated Successfully for Student 'NIMBUS SEVEN CHAUDHARY' (24045938) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G1' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'NIMESH TAMANG' (24045939) ###
+### File Updated Successfully for Student 'NIMESH TAMANG' (24045939) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G6' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'NISAN KARKI' (24045945) ###
+### File Updated Successfully for Student 'NISAN KARKI' (24045945) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G3' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'NISCHAL RAI' (24045948) ###
+### File Updated Successfully for Student 'NISCHAL RAI' (24045948) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G4' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'PRABHIK RAI' (24045962) ###
+### File Updated Successfully for Student 'PRABHIK RAI' (24045962) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G7' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'PRAJWAL KARKI' (24045965) ###
+### File Updated Successfully for Student 'PRAJWAL KARKI' (24045965) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G1' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'PRAWESH ALE' (24045989) ###
+### File Updated Successfully for Student 'PRAWESH ALE' (24045989) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G3' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'RIJAN DHITAL' (24046010) ###
+### File Updated Successfully for Student 'RIJAN DHITAL' (24046010) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G6' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'ROHAN POKHAREL' (24046019) ###
+### File Updated Successfully for Student 'ROHAN POKHAREL' (24046019) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G5' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'ROHIT PAUDEL' (24046021) ###
+### File Updated Successfully for Student 'ROHIT PAUDEL' (24046021) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G3' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'RONIT SUBEDI' (24046026) ###
+### File Updated Successfully for Student 'RONIT SUBEDI' (24046026) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G1' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SAPHAL BOHORA' (24046059) ###
+### File Updated Successfully for Student 'SAPHAL BOHORA' (24046059) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G1' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SAROBAR POKHREL' (24046061) ###
+### File Updated Successfully for Student 'SAROBAR POKHREL' (24046061) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G1' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SHUSHAM PARAJULI' (24046074) ###
+### File Updated Successfully for Student 'SHUSHAM PARAJULI' (24046074) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G2' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SICHAN SHRESTHA' (24046075) ###
+### File Updated Successfully for Student 'SICHAN SHRESTHA' (24046075) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G3' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SMITA KARKI' (24046082) ###
+### File Updated Successfully for Student 'SMITA KARKI' (24046082) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G5' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SUDIP KHADKA' (24046094) ###
+### File Updated Successfully for Student 'SUDIP KHADKA' (24046094) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G4' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SULAV SHRESTHA' (24046106) ###
+### File Updated Successfully for Student 'SULAV SHRESTHA' (24046106) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G4' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'SURANGA RAI' (24046119) ###
+### File Updated Successfully for Student 'SURANGA RAI' (24046119) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G4' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'TAPAS SITAULA' (24046127) ###
+### File Updated Successfully for Student 'TAPAS SITAULA' (24046127) ###
+### Section Folder 'L1C9' Created/Verified ###
+### Group Folder 'L1C9G2' Inside Section 'L1C9' Created/Verified ###
+### File Copied Successfully for Student 'YUNISH KUMAR GAUTAM' (24046150) ###
+### File Updated Successfully for Student 'YUNISH KUMAR GAUTAM' (24046150) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G1' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSH ADHIKARI' (24045781) ###
+### File Updated Successfully for Student 'AAYUSH ADHIKARI' (24045781) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C1G1' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSH KHADKA' (24045783) ###
+### File Updated Successfully for Student 'AAYUSH KHADKA' (24045783) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G5' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'ABHIYAN GHIMIRE' (24045793) ###
+### File Updated Successfully for Student 'ABHIYAN GHIMIRE' (24045793) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G2' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'ARYAN THAPA' (24045830) ###
+### File Updated Successfully for Student 'ARYAN THAPA' (24045830) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G4' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'ASHIKA RANA MAGAR' (24045831) ###
+### File Updated Successfully for Student 'ASHIKA RANA MAGAR' (24045831) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G2' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'BHABIN DULAL' (24045839) ###
+### File Updated Successfully for Student 'BHABIN DULAL' (24045839) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G7' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'BIBASH PANDEY' (24045842) ###
+### File Updated Successfully for Student 'BIBASH PANDEY' (24045842) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G6' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'BIPLAV GURUNG' (24045853) ###
+### File Updated Successfully for Student 'BIPLAV GURUNG' (24045853) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G4' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'DIBYA RAI' (24046164) ###
+### File Updated Successfully for Student 'DIBYA RAI' (24046164) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G2' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'GESH HANG LIMBU' (24046167) ###
+### File Updated Successfully for Student 'GESH HANG LIMBU' (24046167) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G6' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'ISHA SUCHCHA RAI' (24045883) ###
+### File Updated Successfully for Student 'ISHA SUCHCHA RAI' (24045883) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G5' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'ISMINI LIMBU' (24045884) ###
+### File Updated Successfully for Student 'ISMINI LIMBU' (24045884) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G3' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'NABIN BARAL' (24045927) ###
+### File Updated Successfully for Student 'NABIN BARAL' (24045927) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G1' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'NAWARAJ KARKI' (24045932) ###
+### File Updated Successfully for Student 'NAWARAJ KARKI' (24045932) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G3' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'NIROJ BHANDARI' (24045944) ###
+### File Updated Successfully for Student 'NIROJ BHANDARI' (24045944) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G1' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'NITAM BHATTARAI' (24045953) ###
+### File Updated Successfully for Student 'NITAM BHATTARAI' (24045953) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G6' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'NITESH RAUT' (24045954) ###
+### File Updated Successfully for Student 'NITESH RAUT' (24045954) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G4' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'PRABESH BHANDARI' (24045959) ###
+### File Updated Successfully for Student 'PRABESH BHANDARI' (24045959) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G1' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'PRABESH RIMAL' (24045960) ###
+### File Updated Successfully for Student 'PRABESH RIMAL' (24045960) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G3' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'PRAJWAL RAI' (24045967) ###
+### File Updated Successfully for Student 'PRAJWAL RAI' (24045967) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G1' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'PRANISH SHARMA' (24045974) ###
+### File Updated Successfully for Student 'PRANISH SHARMA' (24045974) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G7' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'PRINCE SHRESTHA' (24045994) ###
+### File Updated Successfully for Student 'PRINCE SHRESTHA' (24045994) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G4' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'PUSKAR ACHARYA' (24045996) ###
+### File Updated Successfully for Student 'PUSKAR ACHARYA' (24045996) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G2' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'RHYTHM THAPA' (24046007) ###
+### File Updated Successfully for Student 'RHYTHM THAPA' (24046007) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G5' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'ROHAN PRADHAN' (24046020) ###
+### File Updated Successfully for Student 'ROHAN PRADHAN' (24046020) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G6' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'SAITO LIMBU' (24046038) ###
+### File Updated Successfully for Student 'SAITO LIMBU' (24046038) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G5' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'SASAFUNG LIMBU' (24046063) ###
+### File Updated Successfully for Student 'SASAFUNG LIMBU' (24046063) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G7' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'SUJAL BANTAWA RAI' (24046102) ###
+### File Updated Successfully for Student 'SUJAL BANTAWA RAI' (24046102) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G2' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'SWIKRITI MISHRA' (24046124) ###
+### File Updated Successfully for Student 'SWIKRITI MISHRA' (24046124) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G3' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'UJWAL RAI' (24046135) ###
+### File Updated Successfully for Student 'UJWAL RAI' (24046135) ###
+### Section Folder 'L1C10' Created/Verified ###
+### Group Folder 'L1C10G3' Inside Section 'L1C10' Created/Verified ###
+### File Copied Successfully for Student 'URGEN GURUNG' (24046138) ###
+### File Updated Successfully for Student 'URGEN GURUNG' (24046138) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G2' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'AAKANKSHA SEDHAI' (24045765) ###
+### File Updated Successfully for Student 'AAKANKSHA SEDHAI' (24045765) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G1' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'AARATI ANGBUHANG' (24045769) ###
+### File Updated Successfully for Student 'AARATI ANGBUHANG' (24045769) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G5' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'AAVISHKAR TIMSINA' (24045779) ###
+### File Updated Successfully for Student 'AAVISHKAR TIMSINA' (24045779) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G3' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'ANJAL SHARMA PHUYAL' (24045818) ###
+### File Updated Successfully for Student 'ANJAL SHARMA PHUYAL' (24045818) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G6' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'ANKIT KARKI' (24046157) ###
+### File Updated Successfully for Student 'ANKIT KARKI' (24046157) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G4' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'DEEYA PHUYAL' (24045863) ###
+### File Updated Successfully for Student 'DEEYA PHUYAL' (24045863) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G7' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'DENISH MAGAR' (24045864) ###
+### File Updated Successfully for Student 'DENISH MAGAR' (24045864) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G2' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'DIKSHANTA ACHARYA' (24045868) ###
+### File Updated Successfully for Student 'DIKSHANTA ACHARYA' (24045868) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G1' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'KARUNA KUMARI SHRESTHA' (24045897) ###
+### File Updated Successfully for Student 'KARUNA KUMARI SHRESTHA' (24045897) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G3' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'KUSHAL PAUDEL' (24045911) ###
+### File Updated Successfully for Student 'KUSHAL PAUDEL' (24045911) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G5' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'MANISHA RAI' (24046172) ###
+### File Updated Successfully for Student 'MANISHA RAI' (24046172) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G4' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'MAYA BASNET' (24045924) ###
+### File Updated Successfully for Student 'MAYA BASNET' (24045924) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G3' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'NISHCHAL KARKI' (24045951) ###
+### File Updated Successfully for Student 'NISHCHAL KARKI' (24045951) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G3' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'PRAKRITI KATWAL' (24045971) ###
+### File Updated Successfully for Student 'PRAKRITI KATWAL' (24045971) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G1' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'PRASANNA RAJ WOSTI' (24045978) ###
+### File Updated Successfully for Student 'PRASANNA RAJ WOSTI' (24045978) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G6' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'PRASHNA RAUT' (24045982) ###
+### File Updated Successfully for Student 'PRASHNA RAUT' (24045982) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G2' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'PRATIK KATTEL' (24045988) ###
+### File Updated Successfully for Student 'PRATIK KATTEL' (24045988) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G5' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'RAHUL KARKI' (24046000) ###
+### File Updated Successfully for Student 'RAHUL KARKI' (24046000) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G1' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'REEYA BASNET' (24046004) ###
+### File Updated Successfully for Student 'REEYA BASNET' (24046004) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G6' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'RISHAB KARKI' (24046012) ###
+### File Updated Successfully for Student 'RISHAB KARKI' (24046012) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G6' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'ROSHAN KHATRI' (24046029) ###
+### File Updated Successfully for Student 'ROSHAN KHATRI' (24046029) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G1' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SACHIN KHADKA' (24046033) ###
+### File Updated Successfully for Student 'SACHIN KHADKA' (24046033) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G2' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SMITA POUDEL' (24046083) ###
+### File Updated Successfully for Student 'SMITA POUDEL' (24046083) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G7' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SONI LIMBU' (24046087) ###
+### File Updated Successfully for Student 'SONI LIMBU' (24046087) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G7' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SRIJAL BISTA' (24046091) ###
+### File Updated Successfully for Student 'SRIJAL BISTA' (24046091) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G4' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SUJAL NEUPANE' (24046098) ###
+### File Updated Successfully for Student 'SUJAL NEUPANE' (24046098) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G4' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SUMAN RAI' (24046183) ###
+### File Updated Successfully for Student 'SUMAN RAI' (24046183) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G3' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'SUMIT POKHAREL' (24046111) ###
+### File Updated Successfully for Student 'SUMIT POKHAREL' (24046111) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G5' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'TINA MAGAR' (24046129) ###
+### File Updated Successfully for Student 'TINA MAGAR' (24046129) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G7' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'UJWAL GURAGAIN' (24046133) ###
+### File Updated Successfully for Student 'UJWAL GURAGAIN' (24046133) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G4' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'YOGESH PHUYAL' (24046145) ###
+### File Updated Successfully for Student 'YOGESH PHUYAL' (24046145) ###
+### Section Folder 'L1C11' Created/Verified ###
+### Group Folder 'L1C11G2' Inside Section 'L1C11' Created/Verified ###
+### File Copied Successfully for Student 'YUJAL KHULAL BASNET' (24046148) ###
+### File Updated Successfully for Student 'YUJAL KHULAL BASNET' (24046148) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G3' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'AAYUSH NEUPANE' (24045785) ###
+### File Updated Successfully for Student 'AAYUSH NEUPANE' (24045785) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G6' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'ABHINAYA BASNET' (24046152) ###
+### File Updated Successfully for Student 'ABHINAYA BASNET' (24046152) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G5' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'ALJINA RAI' (24045804) ###
+### File Updated Successfully for Student 'ALJINA RAI' (24045804) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G4' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'AMICK KHADKA' (24045805) ###
+### File Updated Successfully for Student 'AMICK KHADKA' (24045805) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G1' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'ANAMOL NIRAULA' (24045808) ###
+### File Updated Successfully for Student 'ANAMOL NIRAULA' (24045808) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G6' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'DENISH PRADHAN' (24045865) ###
+### File Updated Successfully for Student 'DENISH PRADHAN' (24045865) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G6' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'DHIRAJ RAI' (24045867) ###
+### File Updated Successfully for Student 'DHIRAJ RAI' (24045867) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G1' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'DILASHA THAPA' (24045870) ###
+### File Updated Successfully for Student 'DILASHA THAPA' (24045870) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G5' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'JASMEEN KHATUN' (24045886) ###
+### File Updated Successfully for Student 'JASMEEN KHATUN' (24045886) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G5' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'KHUSHI SHRESTHA' (24045903) ###
+### File Updated Successfully for Student 'KHUSHI SHRESTHA' (24045903) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G2' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'LUV KUMAR GAJMER' (24045915) ###
+### File Updated Successfully for Student 'LUV KUMAR GAJMER' (24045915) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G4' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'MABHISH KHADKA' (24045916) ###
+### File Updated Successfully for Student 'MABHISH KHADKA' (24045916) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G1' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'NEEMA GURUNG' (24045933) ###
+### File Updated Successfully for Student 'NEEMA GURUNG' (24045933) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G1' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'NIRJARA CHAUDHARY' (24045943) ###
+### File Updated Successfully for Student 'NIRJARA CHAUDHARY' (24045943) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G2' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'NISHA ACHARYA' (24045949) ###
+### File Updated Successfully for Student 'NISHA ACHARYA' (24045949) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G2' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'PRANJAL BHATTARAI' (24045977) ###
+### File Updated Successfully for Student 'PRANJAL BHATTARAI' (24045977) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G3' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'PRINCE BAJGAIN' (24045993) ###
+### File Updated Successfully for Student 'PRINCE BAJGAIN' (24045993) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G3' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'ROHAN EJAM' (24046018) ###
+### File Updated Successfully for Student 'ROHAN EJAM' (24046018) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G3' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'ROSHAM BABU LAMICHHANE' (24046027) ###
+### File Updated Successfully for Student 'ROSHAM BABU LAMICHHANE' (24046027) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G4' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'RUSHIKA MAGAR' (24046031) ###
+### File Updated Successfully for Student 'RUSHIKA MAGAR' (24046031) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G5' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SALOMI RAI' (24046180) ###
+### File Updated Successfully for Student 'SALOMI RAI' (24046180) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G2' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SAMRIDDHI LUITEL' (24046048) ###
+### File Updated Successfully for Student 'SAMRIDDHI LUITEL' (24046048) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G2' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SANDESH BABU OJHA' (24046055) ###
+### File Updated Successfully for Student 'SANDESH BABU OJHA' (24046055) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G3' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SANGAM SHRESTHA' (24046182) ###
+### File Updated Successfully for Student 'SANGAM SHRESTHA' (24046182) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G5' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SRIJAN LUITEL' (24046092) ###
+### File Updated Successfully for Student 'SRIJAN LUITEL' (24046092) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G6' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SUMAN KHATIWADA' (24046107) ###
+### File Updated Successfully for Student 'SUMAN KHATIWADA' (24046107) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G1' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SUMIT SHRESTHA' (24046113) ###
+### File Updated Successfully for Student 'SUMIT SHRESTHA' (24046113) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G4' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SUNIL B.K.' (24046114) ###
+### File Updated Successfully for Student 'SUNIL B.K.' (24046114) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G6' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SUSAN RAI' (24046120) ###
+### File Updated Successfully for Student 'SUSAN RAI' (24046120) ###
+### Section Folder 'L1C12' Created/Verified ###
+### Group Folder 'L1C12G4' Inside Section 'L1C12' Created/Verified ###
+### File Copied Successfully for Student 'SUSHANT PRASAI' (24046122) ###
+### File Updated Successfully for Student 'SUSHANT PRASAI' (24046122) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G2' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'AANAND KUMAR MANDAL' (24045768) ###
+### File Updated Successfully for Student 'AANAND KUMAR MANDAL' (24045768) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G4' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'AASKA GHIMIRE' (24045776) ###
+### File Updated Successfully for Student 'AASKA GHIMIRE' (24045776) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G4' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'AKASH DHIMAL' (24046155) ###
+### File Updated Successfully for Student 'AKASH DHIMAL' (24046155) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G6' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'ANJAL BABU ADHIKARI' (24045817) ###
+### File Updated Successfully for Student 'ANJAL BABU ADHIKARI' (24045817) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G5' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'AYUSH KATUWAL' (24045836) ###
+### File Updated Successfully for Student 'AYUSH KATUWAL' (24045836) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G7' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'BICKEY RAI' (24045846) ###
+### File Updated Successfully for Student 'BICKEY RAI' (24045846) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G4' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'DAMARU BALLAV KOIRALA' (24045859) ###
+### File Updated Successfully for Student 'DAMARU BALLAV KOIRALA' (24045859) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G5' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'DARPAN GHIMIRE' (24045860) ###
+### File Updated Successfully for Student 'DARPAN GHIMIRE' (24045860) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G1' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'DIKSHYA RAI' (24046165) ###
+### File Updated Successfully for Student 'DIKSHYA RAI' (24046165) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G1' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'DIPISHA TIMSINA' (24045873) ###
+### File Updated Successfully for Student 'DIPISHA TIMSINA' (24045873) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G2' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'DIYA SIWAKOTI' (24045875) ###
+### File Updated Successfully for Student 'DIYA SIWAKOTI' (24045875) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G4' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'ISHWOR KUMAR SHRESTHA' (24046169) ###
+### File Updated Successfully for Student 'ISHWOR KUMAR SHRESTHA' (24046169) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G6' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'KAUSHAL ADHIKARI' (24045899) ###
+### File Updated Successfully for Student 'KAUSHAL ADHIKARI' (24045899) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G3' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'MANDIP CHAUDHARY' (24046171) ###
+### File Updated Successfully for Student 'MANDIP CHAUDHARY' (24046171) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G4' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'MAUSAM SHRESTHA' (24045923) ###
+### File Updated Successfully for Student 'MAUSAM SHRESTHA' (24045923) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G6' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'NABIN KUMAR IWARAM LIMBU' (24045928) ###
+### File Updated Successfully for Student 'NABIN KUMAR IWARAM LIMBU' (24045928) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G2' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'NAMRATA LAMICHHANE' (24045930) ###
+### File Updated Successfully for Student 'NAMRATA LAMICHHANE' (24045930) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G3' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'NIRJAL GURAGAIN' (24045942) ###
+### File Updated Successfully for Student 'NIRJAL GURAGAIN' (24045942) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G5' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'OSHAN RAI' (24045955) ###
+### File Updated Successfully for Student 'OSHAN RAI' (24045955) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G1' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'PEMA TAMANG' (24045957) ###
+### File Updated Successfully for Student 'PEMA TAMANG' (24045957) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G2' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'PRABHAKAR RAI' (24045961) ###
+### File Updated Successfully for Student 'PRABHAKAR RAI' (24045961) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G3' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'PRAYASH BHATTARAI' (24045990) ###
+### File Updated Successfully for Student 'PRAYASH BHATTARAI' (24045990) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G2' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'REEJON BARUWAL' (24046003) ###
+### File Updated Successfully for Student 'REEJON BARUWAL' (24046003) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G1' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'RIJAN DAHAL' (24046009) ###
+### File Updated Successfully for Student 'RIJAN DAHAL' (24046009) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G5' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'RIYA SHRESTHA' (24046017) ###
+### File Updated Successfully for Student 'RIYA SHRESTHA' (24046017) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G6' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'ROJ CHAUDHARY' (24046022) ###
+### File Updated Successfully for Student 'ROJ CHAUDHARY' (24046022) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G1' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SAIMON OLI' (24046037) ###
+### File Updated Successfully for Student 'SAIMON OLI' (24046037) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G3' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SIDDHANT TAMRAKAR' (24046076) ###
+### File Updated Successfully for Student 'SIDDHANT TAMRAKAR' (24046076) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G6' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SNEHA TIWARI' (24046085) ###
+### File Updated Successfully for Student 'SNEHA TIWARI' (24046085) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G7' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SONAM ACHARYA' (24046086) ###
+### File Updated Successfully for Student 'SONAM ACHARYA' (24046086) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G7' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SUJAL SAH' (24046100) ###
+### File Updated Successfully for Student 'SUJAL SAH' (24046100) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G3' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SUJAN KHAREL' (24046104) ###
+### File Updated Successfully for Student 'SUJAN KHAREL' (24046104) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G5' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'SUMIRAN SANJYAL' (24046108) ###
+### File Updated Successfully for Student 'SUMIRAN SANJYAL' (24046108) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G7' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'TIRAJ BASNET' (24046130) ###
+### File Updated Successfully for Student 'TIRAJ BASNET' (24046130) ###
+### Section Folder 'L1C13' Created/Verified ###
+### Group Folder 'L1C13G7' Inside Section 'L1C13' Created/Verified ###
+### File Copied Successfully for Student 'USHA NIROULA' (24046139) ###
+### File Updated Successfully for Student 'USHA NIROULA' (24046139) ###
+### Section Folder 'L1RC' Created/Verified ###
+### Group Folder 'L1RCG1' Inside Section 'L1RC' Created/Verified ###
+### File Copied Successfully for Student 'ASMIN REGMI' (23056632) ###
+### File Updated Successfully for Student 'ASMIN REGMI' (23056632) ###
+### WARNING: No Group Found for Student 'MILAP RASAILY' (23056674) - Skipping ###
+### WARNING: No Group Found for Student 'MUKSHAM SAMSOHANG' (23049280) - Skipping ###
+=== PROCESS COMPLETED ===
