@@ -94,5 +94,5 @@ For support or inquiries:
 <div align="center">
   <sub>Built with ❤️ by Vinay Koirala</sub>
   <br>
-  © 2023 Vinay Koirala. All rights reserved.
+  © 2025 Vinay Koirala. All rights reserved.
 </div>
